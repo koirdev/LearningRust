@@ -3,7 +3,7 @@
 # Learning ***Rust***
 Learning the Rust programming language
 
-# Compile 
+# Compilation
 ```rustc main.rs```
 # Launch
 
